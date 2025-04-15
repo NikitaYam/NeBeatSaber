@@ -4,7 +4,7 @@ import Video from "./comp/Zoom.mp4";
 function App() {
   return (
     <div className="App">
-      <title>Условный BeatSaber</title>
+      <title>Т\NeBeatSaber</title>
       <header
         style={{
           backgroundColor: "green",
